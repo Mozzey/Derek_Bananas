@@ -10,6 +10,9 @@ namespace ConditionsWhileExceptions
     {
         static void Main(string[] args)
         {
+            int age = 17;
+
+            if()
         }
     }
 }
